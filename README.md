@@ -30,7 +30,6 @@ Le solver utilise une stratégie de parcours en profondeur avec backtracking, ga
 
 Cloner le dépôt et installer les dépendances :
 
-```bash
 git clone https://github.com/ton-utilisateur/maze-solver.git
 cd maze-solver
 npm install
@@ -40,5 +39,4 @@ npm install
 
 Lancer la résolution du labyrinthe avec la commande suivante :
 
-```bash
 node index.js
