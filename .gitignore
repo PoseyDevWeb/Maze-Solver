@@ -1,0 +1,20 @@
+# Dépendances
+node_modules/
+
+# Logs
+*.log
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+
+# Cibles de build (si jamais tu ajoutes du build plus tard)
+dist/
+build/
+
+# Env (au cas où tu ajoutes des clés API ou configs locales)
+.env
