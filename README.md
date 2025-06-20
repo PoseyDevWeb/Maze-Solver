@@ -1,4 +1,4 @@
-# Maze Solver
+z# Maze Solver
 
 [![Node.js](https://img.shields.io/badge/node.js-%3E%3D14-brightgreen)](https://nodejs.org/)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -30,6 +30,7 @@ Le solver utilise une stratégie de parcours en profondeur avec backtracking, ga
 
 Cloner le dépôt et installer les dépendances :
 
+```bash
 git clone https://github.com/ton-utilisateur/maze-solver.git
 cd maze-solver
 npm install
