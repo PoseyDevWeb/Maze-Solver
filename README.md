@@ -5,7 +5,7 @@ z# Maze Solver
 
 ---
 
-## Description
+## Description :
 
 **Maze Solver** est une application Node.js conçue pour résoudre automatiquement un labyrinthe via une API REST.  
 Le programme contrôle un joueur qui explore le labyrinthe, évite les pièges et murs, visite tous les chemins accessibles en profondeur avant de revenir en arrière, jusqu’à atteindre la sortie ou la case "home".
